@@ -7,7 +7,7 @@ SRS ID: CST116SRS02
 
 Unresolved Issues: 
 
-Notes: Have a great day
+Notes: Have a great day!
 
 ---
 
