@@ -7,7 +7,7 @@ SRS ID: CST116SRS02
 
 Unresolved Issues: 
 
-Notes: The data table in the README.md file does not allocate one space between the $ sign and the third value. I had made it so my code does that to make the table more readable in the console. 
+Notes: Have a great day
 
 ---
 
